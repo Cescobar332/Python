@@ -1,0 +1,3 @@
+Estupendo día para estydiar Python 
+ Esta línea ha sido incluida desde el exterior 
+ Siempre es una buena ocasión para estudiar python
